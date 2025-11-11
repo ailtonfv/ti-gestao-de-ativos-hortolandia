@@ -31,7 +31,7 @@ Formato recomendado de trabalho: **CSV (UTF-8, separador vírgula)**.
 
 ---
 
-## Referências
+##  Referências
 - COBIT 2019 — BAI09 (Manage Assets)
 - ITIL 4 — Service Configuration Management
 - ISO/IEC 20000-1:2018 — Gestão de Serviços de TI
