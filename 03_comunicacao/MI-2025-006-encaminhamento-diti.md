@@ -20,7 +20,7 @@ O plano busca **dar visibilidade às entregas da infra da  TI**, comunicar de fo
 Todo o material técnico, incluindo minutas, modelos e documentos de apoio, encontra-se hospedado em caráter **provisório** no repositório GitHub:
 
 🔗 **Repositório:** [https://github.com/ailtonfv/ti-gestao-de-ativos-hortolandia](https://github.com/ailtonfv/ti-gestao-de-ativos-hortolandia)  
-> (Repositório provisório mantido na conta pessoal do colaborador responsável pela coordenação da etapa de padronização.)
+> ((Repositório provisório mantido na conta pessoal do colaborador responsável pela coordenação da etapa de padronização – tão logo essa etapa termine o leme será assumido por colaborador indicado dentro da DITI  por seu respectivo diretor).
 
 Após a aprovação institucional, será criado um **espaço oficial** da Prefeitura / DITI no GitHub para abrigar definitivamente os repositórios da DITI.
 
@@ -40,7 +40,7 @@ O Plano de Marketing foi concebido a partir de três eixos complementares:
 
 ## 4. Encaminhamento
 
-Solicita-se que cada integrante da equipe:  
+Solicitamos que cada integrante da equipe:  
 1. Acesse o repositório e leia a documentação disponível;  
 2. Registre **comentários e sugestões diretamente nas _issues_ do GitHub**;  
 3. Identifique pontos que possam ser aprimorados antes da oficialização do plano de marketing.  
@@ -56,7 +56,7 @@ O Plano de Marketing da infra da TI é uma **ferramenta de posicionamento instit
 A participação de todos neste momento de consulta é essencial para que o documento reflita a realidade e a maturidade tecnológica da Diretoria.
 
 ---
-
+**Hemerson Laranjeira**
 **Diretor da DITI**  
 Diretoria de Tecnologia e Infraestrutura da Informação  
 Prefeitura Municipal de Hortolândia
