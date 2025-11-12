@@ -2,7 +2,7 @@
 
 **Interessado:** Diretoria de Tecnologia e Infraestrutura da Informação (DITI)  
 **Destinatários:** Equipe Técnica da DITI  
-**Data:** 12/11/2025  
+**Data:** 12/novembro/2025  
 **Assunto:** Encaminhamento do Plano de Marketing Institucional da TI e consulta à equipe a fim de receber cometários construtivos
 
 ---
